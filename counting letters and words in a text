@@ -5,7 +5,7 @@ int main()
 {
     char str[100];
     int i;
-    int words=1,letter=0,space=0;
+    int words=1,letter=0;
     printf("Please enter the string \n");
     gets(str);
 
